@@ -21,7 +21,7 @@
     "moment": "^2.24.0",
     "react": "16.9.0",
     "react-infinite-scroll-component": "^5.0.4",
-    "react-native": "^0.61.4",
+    "react-native": "^0.62.3",
     "react-native-bottom-sheet-behavior": "^2.0.0",
     "react-native-elements": "^1.2.7",
     "react-native-flash-message": "^0.1.15",
